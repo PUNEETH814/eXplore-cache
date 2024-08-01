@@ -68,4 +68,4 @@ eXplore-cache is a feature-rich full-stack web application inspired by Airbnb, d
 
 ## Thank You
 
-Thank you for exploring Airbnb! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring eXplore-cache! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
